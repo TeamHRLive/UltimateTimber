@@ -3,13 +3,13 @@ description: ${project.description}
 version: ${project.version}
 api-version: 1.13
 
-main: com.craftaro.ultimatetimber.UltimateTimber
+main: com.songoda.ultimatetimber.UltimateTimber
 softdepend:
   - mcMMO
   - Jobs
   - CoreProtect
 
-author: Craftaro
+author: Songoda
 website: ${project.url}
 
 # TODO: cleanup commands and permissions sections
